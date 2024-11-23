@@ -12,7 +12,6 @@ Ce projet compare les performances de trois algorithmes d’intelligence artific
 
 ## Structure du projet
 
-```plaintext
 ProjetAI/
 ├── cluster_analysis.csv           # Résultats du clustering K-Means
 ├── ClusteringModel.py             # Script pour entraîner K-Means
@@ -23,12 +22,8 @@ ProjetAI/
 ├── kmeans_clusters.csv            # Cluster labels générés par K-Means
 ├── neural_network_model.pkl       # Modèle de réseau de neurones sauvegardé
 ├── NeuralNetworkModel.py          # Script pour entraîner le réseau de neurones
-└── README.md                      #
+└── README.md                      # Documentation du projet
 
-___
-
-
-###
 ---
 
 ## Installation et exécution
