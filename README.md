@@ -31,7 +31,7 @@ ProjetAI/
 
 ### 1. **Cloner le dépôt**
 Cloner le projet depuis le dépôt GitHub ou votre système local :
-```bash
+``` 
 git clone https://github.com/username/ProjetAI.git
 cd ProjetAI
 ```
@@ -72,7 +72,7 @@ pip install -r requirements.txt
 ---
 
 ## Résultats et analyse
-Les performances des modèles et les résultats sont détaillés dans le fichier `rapport.md`. Ce document explique les forces et faiblesses de chaque algorithme et donne des recommandations.
+Les performances des modèles et les résultats sont détaillés dans le fichier `rapport de projet`. Ce document explique les forces et faiblesses de chaque algorithme et donne des recommandations.
 
 ---
 
