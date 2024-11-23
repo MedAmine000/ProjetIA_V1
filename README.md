@@ -1,3 +1,5 @@
+
+
 # Projet AI : Comparaison des Algorithmes d'Intelligence Artificielle
 
 ## Description
@@ -21,59 +23,57 @@ ProjetAI/
 ├── kmeans_clusters.csv            # Cluster labels générés par K-Means
 ├── neural_network_model.pkl       # Modèle de réseau de neurones sauvegardé
 ├── NeuralNetworkModel.py          # Script pour entraîner le réseau de neurones
-└── README.md                      # Documentation du projet
+└── README.md                      #
 
-Installation et exécution
+___
 
-1. Cloner le dépôt
 
+###
+---
+
+## Installation et exécution
+
+### 1. Cloner le dépôt
 Cloner le projet depuis le dépôt GitHub ou votre système local :
 
 git clone https://github.com/username/ProjetAI.git
 cd ProjetAI
 
-2. Installer les dépendances
-
+### 2. Installer les dépendances
 Assurez-vous d’avoir Python installé. Installez les bibliothèques nécessaires avec :
 
 pip install -r requirements.txt
 
-3. Étapes d’exécution
+### 3. Étapes d'exécution
 
-	•	Préparation des données :
-Préparer la base de données pour l’analyse :
+- **Préparation des données** :  
+  Préparer la base de données pour l'analyse :
 
 python DataBasePrep.py
 
-
-	•	Arbre de décision :
-Entraîner et évaluer l’arbre de décision :
+- **Arbre de décision** :  
+Entraîner et évaluer l'arbre de décision :
 
 python DecisionTreeModel.py
 
-
-	•	Clustering K-Means :
+- **Clustering K-Means** :  
 Exécuter le modèle K-Means et analyser les clusters :
 
 python ClusteringModel.py
 python ClusteringModelAnalysis.py
 
-
-	•	Réseau de neurones :
+- **Réseau de neurones** :  
 Entraîner et évaluer le réseau de neurones :
 
 python NeuralNetworkModel.py
 
-Résultats et analyse
+---
 
-Les performances des modèles et les résultats sont détaillés dans un rapport. Ce document présente les forces et faiblesses de chaque algorithme, ainsi que des recommandations pour des cas d’utilisation spécifiques.
+## Résultats et analyse
+Les performances des modèles et les résultats sont détaillés dans le fichier `rapport de projet`. Ce document explique les forces et faiblesses de chaque algorithme et donne des recommandations.
 
-Auteur
+---
 
-Ce projet a été réalisé par Korniti MedAmine. N’hésitez pas à me contacter pour toute question ou suggestion.
+## Auteur
+Ce projet a été créé par Korniti MedAmine. N'hésitez pas à me contacter pour toute question ou amélioration.
 
-### Points améliorés :
-1. Ajout de syntaxe correcte pour les blocs de code (`bash` et `plaintext`) pour une meilleure lisibilité sur GitHub.
-2. Simplification et clarification des étapes.
-3. Un formatage uniforme et clair pour chaque section.
-4. Ajout d'un sous-titre "Résultats et analyse" avec une brève description du contenu du rapport.
